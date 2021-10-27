@@ -12,6 +12,7 @@ quantidade total e alunos dele, conforme exemplo.
 
 Example:
 How many students for course A? 3
+
 21
 35
 22
