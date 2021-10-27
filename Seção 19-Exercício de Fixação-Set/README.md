@@ -1,4 +1,4 @@
-Exercício proposto (Set)
+#Exercício proposto (Set)
 
 Em um portal de cursos online, cada usuário possui um código único, representado por
 um número inteiro.
@@ -11,16 +11,22 @@ Seu programa deve ler os alunos dos cursos A, B e C do instrutor Alex, depois mo
 quantidade total e alunos dele, conforme exemplo.
 
 Example:
+
 How many students for course A? 3
 
 21
 35
 22
+
 How many students for course B? 2
+
 21
 50
+
 How many students for course C? 3
+
 42
 35
 13
+
 Total students: 6
