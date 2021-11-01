@@ -14,14 +14,14 @@ Maria Green,22\
 Bob Brown,21\
 Alex Blue,30\
 Bob Brown,15\
-Maria Green,27
-Maria Green,22
-Bob Brown,25
-Alex Blue,31
+Maria Green,27\
+Maria Green,22\
+Bob Brown,25\
+Alex Blue,31\
 
 # Execution:
 
-Enter file full path: c:\temp\in.txt
-Alex Blue: 76
-Maria Green: 71
-Bob Brown: 61
+Enter file full path: c:\temp\in.txt\
+Alex Blue: 76\
+Maria Green: 71\
+Bob Brown: 61\
