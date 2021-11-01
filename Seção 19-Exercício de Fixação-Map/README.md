@@ -1,4 +1,4 @@
-# Exercício proposto (Set)
+# Exercício proposto (Map)
 
 Na contagem de votos de uma eleição, são gerados vários registros
 de votação contendo o nome do candidato e a quantidade de votos
@@ -9,11 +9,11 @@ candidato.
 
 # Input file example:
 
-Alex Blue,15
-Maria Green,22
-Bob Brown,21
-Alex Blue,30
-Bob Brown,15
+Alex Blue,15\
+Maria Green,22\
+Bob Brown,21\
+Alex Blue,30\
+Bob Brown,15\
 Maria Green,27
 Maria Green,22
 Bob Brown,25
